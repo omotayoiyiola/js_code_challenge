@@ -1,0 +1,12 @@
+{
+  "name": "js_code_challenge",
+  "version": "1.0.0",
+  "description": "Javascript Code Challenge Compilation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
