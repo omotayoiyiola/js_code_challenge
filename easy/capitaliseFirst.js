@@ -1,3 +1,5 @@
+//Capitalize the first letter
+
 function capFirst(str) {
   return str
     .split(" ")
@@ -8,3 +10,5 @@ function capFirst(str) {
 }
 
 console.log(capFirst("i love you"));
+
+// split, map, slice, join
